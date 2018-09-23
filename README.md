@@ -36,7 +36,7 @@ $ heroku open
 or
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-## Click the link
+## Click the link to see the site
 https://pythongetting-started.herokuapp.com/
 
 ## Documentation
